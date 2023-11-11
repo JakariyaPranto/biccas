@@ -1,0 +1,150 @@
+@media only screen and (max-width: 991px) {
+    .header {
+        padding: 10px 0;
+    }
+    .hero-content {
+        text-align: center;
+    }
+    .hero-section {
+        padding-top: 150px;
+        padding-bottom: 80px;
+    }
+    .hero-img {
+        margin-right: 0;
+        margin-top: 50px;
+    }
+    .logo-section-wraper h2 {
+        font-size: 35px;
+        margin-bottom: 40px;
+    }
+    .logo-section {
+        padding-bottom: 80px;
+    }
+    .support-right {
+        margin-top: 50px;
+    }
+    .support-rating-wraper {
+        margin-top: 50px;
+    }
+    .support-left h2 {
+        margin-bottom: 20px;
+    }
+    .features-btn {
+        text-align: center;
+    }
+    .features-header {
+        text-align: center;
+    }
+    .features-header p {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .features-section {
+        padding: 80px 0;
+    }
+    .benifit-content {
+        margin-bottom: 50px;
+    }
+    .plan-section {
+        padding: 80px 0;
+    }
+    .testimonial-section {
+        padding: 80px 0;
+    }
+    .footer-top-left {
+        margin-bottom: 30px;
+    }
+    .footer-menu-wraper {
+        margin-bottom: 30px;
+    }
+    .footer-menu-wraper h5 {
+        margin-bottom: 15px;
+    }
+    .footer-menu a {
+        margin-bottom: 10px;
+    }
+    .footer-bottom {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+    .hero-content h1 {
+        font-size: 70px;
+        line-height: 80px;
+    }
+    .hero-content img {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .hero-content p {
+        margin-bottom: 30px;
+    }
+    .logo-section-wraper h2 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .features-section {
+        padding: 50px 0;
+    }
+    .features-header {
+        margin-bottom: 50px;
+    }
+    .features-item h3 {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: 24px;
+    }
+    .benifit-content h2 {
+        margin-bottom: 35px;
+        font-size: 40px;
+    }
+    .plan-section {
+        padding: 50px 0;
+    }
+    .plan-header h2 {
+        margin-bottom: 25px;
+    }
+    .plan-btns {
+        margin-top: 30px;
+    }
+    .testimonial-section {
+        padding: 50px 0;
+    }
+}
+
+
+
+@media only screen and (max-width: 575px) {
+    .hero-section {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    .hero-content h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .hero-content img {
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+    .hero-content p {
+        margin-bottom: 20px;
+    }
+    .hero-img {
+        margin-top: 30px;
+    }
+    .logo-section {
+        padding-bottom: 50px;
+    }
+    .features-item {
+        max-width: 65%;
+        margin: auto;
+        margin-bottom: 25px;
+    }
+}
